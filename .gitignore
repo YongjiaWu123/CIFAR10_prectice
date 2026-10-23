@@ -1,0 +1,17 @@
+# 忽略模型权重文件
+*.pth
+*.pt
+
+# 忽略 TensorBoard 日志
+logs/
+
+# 忽略模型保存目录
+checkpoints/
+
+# 忽略 Python 运行时生成的缓存
+__pycache__/
+*.pyc
+
+# 忽略项目中的数据集目录
+data/
+dataset/
